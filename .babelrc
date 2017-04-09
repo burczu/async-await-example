@@ -1,0 +1,9 @@
+{
+  "presets": [ "es2015", "stage-2" ],
+  "plugins": [
+    "es6-promise",
+    "external-helpers",
+    "transform-async-to-generator",
+    "transform-runtime"
+  ]
+}
