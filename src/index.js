@@ -1,6 +1,4 @@
-// export default not working yet for async functions
-// import asyncAction from './example';
-import { asyncAction } from './example';
+import asyncAction from './example';
 
 // function doWork() {
 //   asyncAction()
